@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CarlosLuqueC
+- 👋 Hi, I’m Carlos Luque
 
 
 <!---

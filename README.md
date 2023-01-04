@@ -13,6 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-CarlosLuqueC&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
 
 ### ☕ About Me :
@@ -24,7 +25,7 @@ I am a electronic engineer from Colombia.
 
 - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosluquec/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-carlosluquec-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosluquec/)
 <!---
 - 👋 Hi, I’m Carlos Luque
 CarlosLuqueC/CarlosLuqueC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

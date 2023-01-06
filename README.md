@@ -41,7 +41,7 @@ I am a Electronic Engineer from Colombia.
 
 ### 🔥 My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosLuqueC)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosLuqueC)](https://github.com/anuraghazra/github-readme-stats&hide=stars,prs,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLuqueC&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 

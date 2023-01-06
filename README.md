@@ -43,4 +43,5 @@ I am a Electronic Engineer from Colombia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLuqueC)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLuqueC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CarlosLuqueC-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

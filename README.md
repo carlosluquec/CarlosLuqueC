@@ -16,16 +16,16 @@
 
 ---
 
-### ☕ About Me :
+### ✌️ About Me :
 I am a Electronic Engineer from Colombia.
 
-- 🔭 I’m working as a Electronic Engineer and contributing backend for building web applications.
+- 🤓 I’m working as a Electronic Engineer and contributing backend for building web applications.
 
-- 🌱 Exploring Technical Content Writing.
+- 📡 Exploring mechanisms to configure networks.
 
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- ☕ In my free time, I read tech articles and Devdocs.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-carlosluquec-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosluquec/)
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-carlosluquec-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosluquec/)
 
 ### 🛠️ Languages and Tools :
 

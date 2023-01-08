@@ -17,7 +17,7 @@
 ---
 
 ### ✌️ About Me :
-I am a Electronic Engineer from Colombia.
+I'm a Electronic Engineer from Colombia.
 
 - 🤓 I’m working as a Electronic Engineer and contributing backend for building web applications.
 

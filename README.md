@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/carlosluquec/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/">
+<!--  <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-<!--  <a href="https://twitter.com/carlossluque">
+  <a href="https://twitter.com/carlossluque">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>-->
 </div>
@@ -16,14 +16,14 @@
 
 ---
 
-### ✌️ About Me :
-I'm a Electronic Engineer from Colombia.
+## ✌️ About Me :
 
-- 👨‍💻 I’m contributing backend for building web applications.
 
-- 📡 Exploring mechanisms to configure networks.
+🔋 I am an electronic engineer with experience in communications networks.
 
-- ☕ In my free time, I read tech articles and Devdocs.
+☕ I am currently learning about back-end development with programming languages like Java and Go.
+
+🍿 In my free time, I like to read and watch movies specially about history and technology.
 
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-carlosluquec-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosluquec/)
 
@@ -31,14 +31,10 @@ I'm a Electronic Engineer from Colombia.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" **alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" **alt="Golang" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" **alt="MatLab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 

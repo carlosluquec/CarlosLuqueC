@@ -19,15 +19,15 @@
 ## ✌️ About Me :
 
 
-🔋 I am an electronic engineer with experience in communications networks.
+- 🔋 I'm an electronic engineer with experience in communications networks.
 
-☕ I am currently learning about back-end development with programming languages like Java and Go.
+- ☕ I'm currently learning about back-end development with programming languages like Java and Go.
 
-🍿 In my free time, I like to read and watch movies specially about history and technology.
+- 🍿 In my free time, I like to read and watch movies specially about history and technology.
 
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-carlosluquec-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosluquec/)
 
-### 🛠️ Languages and Tools :
+## 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <!--https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif-->
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif](https://giphy.com/stickers/GitHub-transparent-WcYnTzdrjQphdu33xs" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk1OTBqdWtwMzloZWp5bGR4NWNxZnowajlwdHA5emxzMjc2aml3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WcYnTzdrjQphdu33xs/giphy.webp" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/carlosluquec/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

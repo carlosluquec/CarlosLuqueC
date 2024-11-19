@@ -1,3 +1,6 @@
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaspace+krypton&pause=1000&color=FF9919&width=435&lines=Hi+there%2C+I'm+Carlos!+%F0%9F%91%8B)](https://git.io/typing-svg)</div>
+
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t2dG9qeXoxbHloOXYzcjdqZHNuNzFycHpkbjNpY3g1N2UxbzdwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ou60s0z0v7JzSWGn8C/giphy.webp" width="200"/>
   <div id="badges">

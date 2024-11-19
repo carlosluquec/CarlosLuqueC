@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaspace+krypton&size=24&pause=1000&color=FF9919&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Carlos!+%F0%9F%91%8B)](https://git.io/typing-svg)
 ---
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVwNmVuM3Q2ZG52ZDR6aWlteGt4OG5pa2phc2wweXNzemZ0bzUxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.webp" width="100"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVwNmVuM3Q2ZG52ZDR6aWlteGt4OG5pa2phc2wweXNzemZ0bzUxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.webp" width="200"/>
 </div>
 
 ---

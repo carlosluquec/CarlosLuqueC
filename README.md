@@ -4,12 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 -----------------
 
-I've been learning programming over the past year and discovered my true passion for backend development.
-
 * 🌍  I'm based in Bogotá, Colombia
 * ✉️  You can contact me at [carlosluq1@gmail.com](mailto:carlosluq1@gmail.com)
 * 🚀  I'm currently working on [API-REST with Spring and Java](http://https://github.com/carlosluquec/API-REST)
-* 🧠  I'm learning Go
+* 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Backend Projects
 
 ### Skills

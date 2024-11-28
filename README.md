@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=M&pause=1000&width=600&height=80&lines=%22Hey%2C+I'm+Carlos+%F0%9F%91%8B+Backend+enthusiast.+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=M&size=24&pause=1000&width=600&height=80&lines=Hey%2C+I'm+Carlos+%F0%9F%91%8B+Backend+enthusiast+%F0%9F%8C%B1)](https://git.io/typing-svg)
 ==============================================================================================================================
 
 Backend developer

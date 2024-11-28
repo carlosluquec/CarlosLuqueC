@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carlos
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=M&pause=1000&width=600&height=80&lines=%22Hey%2C+I'm+Carlos+%F0%9F%91%8B+Backend+enthusiast.+%F0%9F%8C%B1)](https://git.io/typing-svg)
 ==============================================================================================================================
 
 Backend developer

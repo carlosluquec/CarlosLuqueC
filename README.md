@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=M&size=24&pause=1000&width=600&height=80&lines=Hey%2C+I'm+Carlos+%F0%9F%91%8B+Backend+enthusiast+%F0%9F%8C%B1)](https://git.io/typing-svg)
 ==============================================================================================================================
 
-Backend developer
------------------
-
 * 🌍  I'm based in Bogotá, Colombia
 * ✉️  You can contact me at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 * 🚀  I'm currently working on [API-REST with Spring and Java](http://https://github.com/carlosluquec/API-REST)

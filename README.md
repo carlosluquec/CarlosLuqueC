@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=M&size=24&pause=1000&width=600&height=80&lines=Hey%2C+I'm+Carlos+%F0%9F%91%8B+Backend+enthusiast+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F531&width=600&height=100&lines=Hello%2C+I'm+Carlos+%F0%9F%91%8B+)](https://git.io/typing-svg)
 ==============================================================================================================================
 
 * 🌍  I'm based in Bogotá, Colombia

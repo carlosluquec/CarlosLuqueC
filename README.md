@@ -4,7 +4,7 @@
 * 🌍  I'm based in Bogotá, Colombia
 * ✉️  You can contact me at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 * 🚀  I'm currently working on [API-REST with Spring and Java](http://https://github.com/carlosluquec/API-REST)
-* 🧠  I'm learning Java
+
 
 ### Skills
 

@@ -9,7 +9,6 @@ Hi, I’m Carlos 👋 Sharing my coding journey with the world. Explore my GitHu
 * 🌍  I'm based in Bogotá, Colombia
 * ✉️  You can contact me at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 * 🚀  I'm currently working on Java Applications
-* 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on Backend Projects
 * ⚡  I love electronics—shocking, right? ⚡🤖
 

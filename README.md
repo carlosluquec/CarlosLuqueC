@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 -----------------
 
-Hi, I’m Carlos 👋 Sharing my coding journey with the world. Explore my GitHub and let's connect! 🌍
+Sharing my coding journey with the world. Explore my GitHub and let's connect! 🌍
 
 * 🌍  I'm based in Bogotá, Colombia
 * ✉️  You can contact me at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)

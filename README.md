@@ -10,7 +10,7 @@ Sharing my coding journey with the world. Explore my GitHub and let's connect! �
 * ✉️  You can contact me at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 * 🚀  I'm currently working on Java Applications
 * 🤝  I'm open to collaborating on Backend Projects
-* ⚡  I love electronics—shocking, right? ⚡🤖
+* ⚡  Life is a mix of 1s, 0s, and resistors. 🤖
 
 ### Skills
 

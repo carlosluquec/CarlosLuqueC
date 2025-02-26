@@ -8,7 +8,7 @@ Sharing my coding journey with the world. Explore my GitHub and let's connect! �
 
 * 🌍  I'm based in Bogotá, Colombia
 * ✉️  You can contact me at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
-* 🚀  I'm currently working on Java Applications
+* 🚀  I'm working with Java to develop scalable applications
 * 🤝  I'm open to collaborating on Backend Projects
 * ⚡  Life is a mix of 1s, 0s, and resistors. 🤖
 

@@ -36,7 +36,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
 </div>
-___
+
+---
 
 ### Stats &  Top Langs
 <div align=left>
@@ -47,7 +48,7 @@ ___
   
 </div>
 
-___
+---
 
 ### Contributing projects
 

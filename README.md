@@ -21,10 +21,14 @@
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
 </div>
 
-### Contributing projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NmanceraBarrera&repo=proyectofinalTalentoTech&theme=transparent&hide_border=true)](https://github.com/NmanceraBarrera/proyectofinalTalentoTech)
-
 ### Stats
 
 ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=transparent&hide_border=true)
+
+### Top Langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosluquec&hide_progress=true&theme=transparent)
+
+### Contributing projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NmanceraBarrera&repo=proyectofinalTalentoTech&theme=transparent&hide_border=true)](https://github.com/NmanceraBarrera/proyectofinalTalentoTech)

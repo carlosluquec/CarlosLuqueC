@@ -24,8 +24,8 @@
 ---
 ### Contributing projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NmanceraBarrera&repo=proyectofinalTalentoTech&theme=transparent)](https://github.com/NmanceraBarrera/proyectofinalTalentoTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NmanceraBarrera&repo=proyectofinalTalentoTech&theme=transparent&hide_border=true)](https://github.com/NmanceraBarrera/proyectofinalTalentoTech)
 ---
 ### Stats
 
-![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=shadow_green)
+![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=transparent&hide_border=true)

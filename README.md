@@ -22,7 +22,9 @@
 </div>
 ---
 ### Contributing projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosluquec&repo=github-readme-stats)](https://github.com/NmanceraBarrera/proyectofinalTalentoTech)
 ---
 ### Stats
+
 [![carlosluquec GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=shadow_green)]

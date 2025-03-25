@@ -26,7 +26,7 @@
 </div>
 
 ### Stats
-<div>
+<div align=center>
   
   ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=transparent&hide_border=true) 
   

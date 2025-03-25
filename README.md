@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 --- 
-* ✌🏻   Hi, I'm Carlos Graduate from ***Saint Bonaventure University (Bogotá, Colombia)***
-* 🤓  A Electronic Engineer living in Bogotá, Colombia
+* ✌🏻   Hi, I'm Carlos a Electronic Engineer Graduate from ***Saint Bonaventure University (Bogotá, Colombia)***
+* 🤓  I'm living in Bogotá, Colombia
 * 🌱  I'm currently focused on Backend projects with Java and Node
 * 🐹  I'm currently learning Go 
 * 📢  If there is a suitable job opportunity, please feel free to send an email to carlosluquej@outloook.com 
@@ -21,4 +21,8 @@
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
 </div>
 ---
-### 
+### Contributing projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosluquec&repo=github-readme-stats)](https://github.com/NmanceraBarrera/proyectofinalTalentoTech)
+---
+### Stats
+[![carlosluquec GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=shadow_green)](https://github.com/carlosluquec)

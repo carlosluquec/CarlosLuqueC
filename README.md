@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 --- 
 * ✌🏻   Hi, I'm Carlos a Electronic Engineer Graduate from ***Saint Bonaventure University (Bogotá, Colombia)***
-* 🤓  I'm living in Bogotá, Colombia
+* 🌍  I'm living in Bogotá, Colombia
 * 🌱  I'm currently focused on Backend projects with Java and Node
 * 🐹  I'm currently learning Go 
 * 📢  If there is a suitable job opportunity, please feel free to send an email to carlosluquej@outloook.com 
@@ -25,4 +25,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosluquec&repo=github-readme-stats)](https://github.com/NmanceraBarrera/proyectofinalTalentoTech)
 ---
 ### Stats
-[![carlosluquec GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=shadow_green)](https://github.com/carlosluquec)
+[![carlosluquec GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=shadow_green)]

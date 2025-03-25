@@ -1,5 +1,7 @@
 ### Hi there 👋🏻
---- 
+
+___ 
+
 * ✌🏻   Hi, I'm Carlos a Electronic Engineer Graduate from ***Saint Bonaventure University (Bogotá, Colombia)***
 * 🌍  I'm living in Bogotá, Colombia
 * 🌱  I'm currently focused on Backend projects with Java and Node

@@ -5,7 +5,7 @@
 * 🌱  I'm currently focused on Backend projects with Java and Node
 * 🐹  I'm currently learning Go 
 * 📢  If there is a suitable job opportunity, please feel free to send an email to carlosluquej@outloook.com 
----
+
 ### Technologies
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /><img width="12" />
@@ -21,11 +21,10 @@
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
 </div>
 
----
 ### Contributing projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NmanceraBarrera&repo=proyectofinalTalentoTech&theme=transparent&hide_border=true)](https://github.com/NmanceraBarrera/proyectofinalTalentoTech)
----
+
 ### Stats
 
 ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=transparent&hide_border=true)

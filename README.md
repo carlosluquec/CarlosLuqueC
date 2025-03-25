@@ -20,6 +20,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /><img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
 </div>
+
 ---
 ### Contributing projects
 

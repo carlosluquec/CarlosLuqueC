@@ -25,8 +25,10 @@
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
 </div>
 
-### Stats
-<div align=center>
+___
+
+### Stats &  Top Langs
+<div align=left>
   
   ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=transparent&hide_border=true) 
   
@@ -34,10 +36,7 @@
   
 </div>
 
-
-### Top Langs
-
-
+___
 
 ### Contributing projects
 

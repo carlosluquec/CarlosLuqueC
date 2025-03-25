@@ -27,7 +27,7 @@
 
 ### Top Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosluquec&hide_progress=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosluquec&layout=donut&theme=transparent&hide_border=true)
 
 ### Contributing projects
 

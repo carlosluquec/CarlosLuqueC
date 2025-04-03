@@ -6,7 +6,7 @@
 * 🌍 I'm living in Bogotá, Colombia
 * 🌱 I'm focused on Backend projects with Java and Node
 * 🐹 I'm currently learning Go 
-* 📧 If there is a suitable job opportunity, please feel free to send an email to carlosluquej@outloook.com 
+* 📧 You can contact me at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 
 ---
 

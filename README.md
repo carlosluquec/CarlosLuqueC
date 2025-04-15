@@ -37,7 +37,7 @@
 
 ---
 
-### Stats &  Top Langs
+### Stats
 <div align=left>
   
   ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=shadow_blue&hide_border=true) 

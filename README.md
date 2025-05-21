@@ -40,7 +40,7 @@
 ---
 
 ### Stats
-<div align=center>
+<div align=left>
   
   ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=transparent&hide_border=true) 
 
@@ -52,7 +52,7 @@
 ---
 
 ### Contributing projects
-<div align=center>
+<div align=left>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NmanceraBarrera&repo=proyectofinalTalentoTech&theme=transparent&hide_border=true)](https://github.com/NmanceraBarrera/proyectofinalTalentoTech)
 

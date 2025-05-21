@@ -44,7 +44,7 @@
   
   ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=transparent&hide_border=true) 
   
-  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosluquec&layout=donut&theme=shadow_blue&hide_border=true)-->
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosluquec&layout=donut&theme=transparent&hide_border=true)
   
 </div>
 

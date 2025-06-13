@@ -1,6 +1,5 @@
 ### Hi there 👋🏻
 
----
 
 * ⚡ Hi, I'm Carlos a Electronic Engineer Graduate from ***Saint Bonaventure University (Bogotá, Colombia)***
 * 🌍 I'm living in Bogotá, Colombia
@@ -8,7 +7,6 @@
 * 🐹 I'm currently learning Go 
 * 📧 You can contact me at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 
----
 
 ### Technologies & Stats
 

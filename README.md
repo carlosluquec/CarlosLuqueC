@@ -23,20 +23,9 @@
 ---
 
 ### Stats
-<div align=left>
+<div align=center>
   
-  ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&theme=transparent&hide_border=true) 
-
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosluquec&layout=donut&theme=transparent&hide_border=true)
-  
-</div>
-
----
-
-### Contributing projects
-<div align=left>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NmanceraBarrera&repo=proyectofinalTalentoTech&theme=transparent&hide_border=true)](https://github.com/NmanceraBarrera/proyectofinalTalentoTech)
+  ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&rank_icon=github&theme=calm&hide_border=true) 
 
 </div>
+

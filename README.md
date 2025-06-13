@@ -21,7 +21,7 @@
 
 <div align=center>
   
-  ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&rank_icon=github&hide=stars,issues&theme=calm&hide_border=true) 
+  ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&rank_icon=github&hide=stars,issues&theme=shadow_red&hide_border=true&include_all_commits=true) 
 
 </div>
 

@@ -39,7 +39,13 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,spring,go,mysql,sqlite,vscode,idea,linux&perline=3)](https://skillicons.dev)-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,java,spring,go,mysql,sqlite,vscode,idea,linux&perline=3" />
+  </a>
+</p>
 
 ---
 

@@ -40,5 +40,5 @@
   ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&rank_icon=github&hide=stars,issues&theme=outrun&hide_border=true&include_all_commits=true) 
 
 
-[![Carlos Luque's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlosluquec)](https://github.com/anuraghazra/github-readme-stats)
+[![Carlos Luque's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlosluquec&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 </div>

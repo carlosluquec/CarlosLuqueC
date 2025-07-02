@@ -1,4 +1,4 @@
-<img src="/banner-github.png"/>
+<img src="https://octodex.github.com/images/NUX_Octodex.gif"/>
 
 ---
 

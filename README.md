@@ -1,18 +1,8 @@
-<div style="display:flex;gap:20px">
-  <div style="flex:1" markdown="1">
-    ![Imagen](url)
-  </div>
-  <div style="flex:1" markdown="1">
-    **Texto sin bordes**  
-    Usando flexbox
-  </div>
+<div align="center">
+	<img src="/banner-github.png"/>
 </div>
 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0; width="50%"><img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" style="width:100%"></td>
-    <td style="border: none; padding: 0; width="50%">
-
+---
 ### Hi there 👋🏻
 
 * ⚡ Hi, I'm Carlos a Electronic Engineer Graduate from ***Saint Bonaventure University (Bogotá, Colombia)***
@@ -20,9 +10,6 @@
 * 🌱 I'm focused on Backend projects with Java and Node
 * 🐹 I'm currently learning Go 
 * 📧 You can contact me at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
-    </td>
-  </tr>
-</table>
 
 ---
 

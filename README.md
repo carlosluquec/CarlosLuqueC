@@ -1,3 +1,12 @@
+<div style="display:flex;gap:20px">
+  <div style="flex:1" markdown="1">
+    ![Imagen](url)
+  </div>
+  <div style="flex:1" markdown="1">
+    **Texto sin bordes**  
+    Usando flexbox
+  </div>
+</div>
 
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
@@ -18,13 +27,7 @@
 ---
 
 ### Technologies
-<!--
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,java,spring,go,mysql,sqlite,linux&perline=10&theme=light" />
-  </a>
-</p>
--->
+
 <div align="center">
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>

@@ -31,12 +31,13 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/>
 </div>
 
-<div>
+<div align="center">
+	<img height="32" width="32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+	<img height="32" width="32" src="https://cdn.simpleicons.org/spring/6DB33F" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/springboot/6DB33F" />
 	<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/6DB33F" />
 	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
 	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
 	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />

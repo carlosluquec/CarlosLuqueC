@@ -32,7 +32,7 @@
 </div>
 
 <div>
-	<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
 	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
 	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
 	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />

@@ -44,7 +44,7 @@
 	<img height="40" width="40" src="https://cdn.simpleicons.org/mysql/4479A1" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/sqlite/003B57" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/47A248" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/gnubash/4EAA25" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/kicad/314CB0" />

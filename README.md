@@ -32,17 +32,23 @@
 </div>
 
 <div align="center">
-	<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-	<img height="32" width="32" src="https://cdn.simpleicons.org/spring/6DB33F" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/springboot/6DB33F" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/6DB33F" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
+	<img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+	<img height="36" width="36" src="https://cdn.simpleicons.org/spring/6DB33F" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/springboot/6DB33F" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/go/00ADD8" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/cplusplus/00599C" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/html5/E34F26" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/simpleicons/css/663399" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/mysql/4479A1" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/sqlite/003B57" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/mongodb/47A248" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/linux/FCC624" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/gnubash/4EAA25" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/kicad/314CB0" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/altiumdesigner/A5915F" />
+	<img height="36" width="36" src="https://cdn.simpleicons.org/platformio/F5822A" />
 </div>
 
 ---

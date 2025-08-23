@@ -33,6 +33,7 @@
 -->
 <div align="center">
 	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+	<img height="40" width="40" src="https://cdn.simpleicons.org/openjdk/000000" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/spring/6DB33F" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/springboot/6DB33F" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/javascript/F7DF1E" />

@@ -33,7 +33,6 @@
 -->
 <div align="center">
 	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-	<img height="40" width="40" src="https://cdn.simpleicons.org/openjdk/000000" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/spring/6DB33F" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/springboot/6DB33F" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
@@ -50,6 +49,7 @@
 	<img height="40" width="40" src="https://cdn.simpleicons.org/gnubash/4EAA25" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/kicad/314CB0" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/altiumdesigner/A5915F" />
+	<img height="40" width="40" src="https://cdn.simpleicons.org/espressif/E7352C" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/platformio/F5822A" />
 </div>
 

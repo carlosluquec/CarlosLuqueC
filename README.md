@@ -50,7 +50,6 @@
 	<img height="40" width="40" src="https://cdn.simpleicons.org/kicad/314CB0" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/altiumdesigner/A5915F" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/espressif/E7352C" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/micropython/2B2728" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/platformio/F5822A" />
 </div>
 

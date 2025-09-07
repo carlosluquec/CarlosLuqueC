@@ -18,7 +18,6 @@
 	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 	<img height="40" width="40" src="https://cdn.simpleicons.org/spring/6DB33F" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/springboot/6DB33F" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/go/00ADD8" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus/00599C" />
 	<img height="40" width="40" src="https://cdn.simpleicons.org/mysql/4479A1" />

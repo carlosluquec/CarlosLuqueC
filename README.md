@@ -15,21 +15,15 @@
 
 ### Technologies
 <div align="center">
-	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-	<img height="40" width="40" src="https://cdn.simpleicons.org/spring/6DB33F" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/springboot/6DB33F" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/go/00ADD8" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus/00599C" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/mysql/4479A1" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/sqlite/003B57" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/47A248" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/gnubash/4EAA25" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/kicad/314CB0" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/altiumdesigner/A5915F" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/espressif/E7352C" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/platformio/F5822A" />
+	<img height="100" width="100" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" title="Spring Boot"/>
+	<img height="100" width="100" src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" title="C++"/>
+	<img height="100" width="100" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" title="Go"/>
+	<img height="100" width="100" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL"/>
+	<img height="100" width="100" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB"/>
+	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" title="Amazon Web Services"/>
+	<img height="100" width="100" src="https://cdn.simpleicons.org/kicad/314CB0" alt="KiCad" title="KiCad"/>
+	<img height="100" width="100" src="https://cdn.simpleicons.org/espressif/E7352C" alt="Espressif" title="Espressif"/>
+	<img height="100" width="100" src="https://cdn.simpleicons.org/platformio/F5822A" alt="PlatformIO" title="PlatformIO"/>
 </div>
 
 ---

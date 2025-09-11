@@ -7,8 +7,8 @@
 
 * ⚡ I'm Carlos a Electronic Engineer Graduate from ***Saint Bonaventure University (Bogotá, Colombia)***
 * 🌍 I'm living in Bogotá, Colombia
-* 🌱 I'm focused on Backend projects with Java and Node
-* 🐹 I'm currently learning Go 
+* 🌱 I'm focused on Backend projects with Java and Go
+* 🐹 I'm currently learning Python 
 * 📧 You can contact me at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 
 ---

@@ -1,6 +1,4 @@
-<div align="center">
-	<img src="/banner-github.png"/>
-</div>
+![Header](./github-header-banner.png)
 
 ---
 ### Hi there 👋🏻

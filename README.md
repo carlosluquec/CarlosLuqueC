@@ -1,7 +1,5 @@
 ![Header](./github-header-banner.png)
 
----
-### Hi there 👋🏻
 
 * ⚡ I'm Carlos a Electronic Engineer Graduate from ***Saint Bonaventure University (Bogotá, Colombia)***
 * 🌍 I'm living in Bogotá, Colombia

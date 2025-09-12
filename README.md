@@ -31,10 +31,10 @@
 ### Stats
 <div align=center>
   
-  ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&rank_icon=github&hide=stars,issues&theme=algolia&hide_border=true&include_all_commits=true) 
+  ![Carlos Luque GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&rank_icon=github&hide=stars,issues&theme=one_dark_pro&hide_border=true&include_all_commits=true) 
 
 
-[![Carlos Luque's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlosluquec&theme=algolia&hide_border=true&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Carlos Luque's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlosluquec&theme=one_dark_pro&hide_border=true&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>

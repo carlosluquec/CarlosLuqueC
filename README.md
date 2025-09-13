@@ -13,7 +13,7 @@
 <div align="center">
 	<img height="50" width="50" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" title="Spring Boot"/>
 	<img height="50" width="50" src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" title="C++"/>
-	<img height="50" width="50" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" title="Go"/>
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg alt="Go" title="Go" />
 	<img height="50" width="50" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL"/>
 	<img height="50" width="50" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB"/>
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" title="Amazon Web Services"/>

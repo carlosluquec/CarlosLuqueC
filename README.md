@@ -4,7 +4,8 @@ Hi there! I'm Carlos, an Electronic Engineer from Bogotá, Colombia. My focus is
 
 ### Technologies
 
-#### Backend Dev
+<h4 align="center">Backend Dev</h4>
+
 <div align="center">
 	<img height="50" width="50" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" title="Spring Boot"/>
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" title="Go" />
@@ -13,7 +14,7 @@ Hi there! I'm Carlos, an Electronic Engineer from Bogotá, Colombia. My focus is
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" title="Amazon Web Services"/>
 </div>
 
-#### Embedded Systems
+<h4 align="center">Embedded Systems</h4>
 
 <div align="center">
 	<img height="50" width="50" src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" title="C++"/>

@@ -1,11 +1,4 @@
-![Header](./github-header-banner.png)
-
-
-* ⚡ I'm Carlos a Electronic Engineer Graduate from ***Saint Bonaventure University (Bogotá, Colombia)***
-* 🌍 I'm living in Bogotá, Colombia
-* 🌱 I'm focused on Backend projects with Java and Go
-* 🐍 I'm currently learning Python 
-* 📧 You can contact me at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
+Hi there! I'm Carlos, an Electronic Engineer from Bogotá, Colombia. My focus is on **backend development** where I work primarily with **Java** and **Go**. I'm also currently on a journey learning **Python** 🐍. Always open to collaborating on cool projects—drop me a line at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com).
 
 ---
 

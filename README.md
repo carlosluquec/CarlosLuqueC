@@ -31,5 +31,4 @@ Hi there! I'm Carlos, an Electronic Engineer from Bogotá, Colombia. My focus is
 
 [![Carlos Luque's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlosluquec&theme=vue&hide_border=true&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
-
 </div>

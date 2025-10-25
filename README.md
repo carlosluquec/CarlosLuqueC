@@ -12,7 +12,7 @@ Hi there! I'm Carlos, an Electronic Engineer from Bogotá, Colombia. My focus is
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" title="Amazon Web Services"/>
 </div>
 
-<h3 align="center">Embedded Systems</h3>
+<h3 align="center">IoT & Embedded Systems</h3>
 
 <div align="center">
 	<img height="50" width="50" src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" title="C++"/>

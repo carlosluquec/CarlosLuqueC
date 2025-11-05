@@ -27,8 +27,8 @@ Hi there! I'm Carlos, an Electronic Engineer from Bogotá, Colombia. My focus is
 
 <div align=center>
 
-[![Carlos Luque's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&rank_icon=github&hide=stars,issues&theme=material-palenight&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Carlos Luque's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosluquec&show_icons=true&rank_icon=github&hide=stars,issues&theme=codeSTACKr&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Carlos Luque's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlosluquec&theme=material-palenight&hide_border=true&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Carlos Luque's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlosluquec&theme=codeSTACKr&hide_border=true&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>

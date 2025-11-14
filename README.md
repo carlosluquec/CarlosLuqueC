@@ -17,7 +17,7 @@ Hi there! I'm Carlos, an Electronic Engineer from Bogotá, Colombia. My focus is
 
 <div align="center">
 	<img height="50" width="50" src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" title="C++"/>
-	<img height="50" width="50" src="https://cdn.simpleicons.org/python/3776AB" alt="C++" title="C++"/>
+	<!--<img height="50" width="50" src="https://cdn.simpleicons.org/python/3776AB" alt="C++" title="C++"/>-->
 	<img height="50" width="50" src="https://cdn.simpleicons.org/kicad/314CB0" alt="KiCad" title="KiCad"/>
 	<img height="50" width="50" src="https://cdn.simpleicons.org/espressif/E7352C" alt="Espressif" title="Espressif"/>
 	<img height="50" width="50" src="https://cdn.simpleicons.org/platformio/F5822A" alt="PlatformIO" title="PlatformIO"/>

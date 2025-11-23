@@ -11,7 +11,7 @@ Hi there! I'm Carlos, an Electronic Engineer from Bogotá, Colombia. My focus is
 	<img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL"/>
 	<img height="50" width="50" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB"/>
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" title="Amazon Web Services"/>
-	<img height="50" width="50" src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" title="Google Cloud"/>
+	<!--<img height="50" width="50" src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" title="Google Cloud"/>-->
 </div>
 
 <h3 align="center">IoT & Embedded Systems</h3>

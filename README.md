@@ -7,7 +7,7 @@ Hi there! I'm Carlos, an Electronic Engineer from Bogotá, Colombia. My focus is
 <div align="center">
 	<img height="50" width="50" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" title="Spring Boot"/>
     <img height="60" width="60" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" title="Go"/>
-	<img height="70" width="70" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL"/>
+	<img height="60" width="60" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL"/>
 	<img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL"/>
 	<img height="50" width="50" src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" title="SQLite"/>
 	<img height="50" width="50" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB"/>

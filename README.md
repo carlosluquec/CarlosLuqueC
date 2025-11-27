@@ -1,6 +1,6 @@
-### Backend Developer
+### About Me
 
-Backend Developer with a foundation in Electronic Engineering, specializing in building scalable systems with **Java** and **Go**. Based in Bogotá, Colombia. I am focused on applying my skills to high-impact backend projects and am currently expanding my expertise with **GCP*.
+With a foundation in Electronic Engineering, I specialize in building scalable backend systems using **Java** and **Go**. Based in Bogotá, Colombia, I am focused on high-impact projects and am currently expanding my expertise with **Python**.
 
 Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 

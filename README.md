@@ -1,6 +1,6 @@
 ### About Me
 
-With a foundation in Electronic Engineering, I specialize in building scalable backend systems using **Java** and **Go**. Based in Bogotá, Colombia, I am focused on high-impact projects and am currently expanding my expertise with **Python**.
+With a foundation in Electronic Engineering, I specialize in building scalable backend systems using **Java** and **Go**. Based in Bogotá, Colombia, I am now focused on mastering cloud-native technologies and AI on the **Google Cloud Platform (GCP)**.
 
 Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 

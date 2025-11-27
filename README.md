@@ -1,4 +1,8 @@
-Hi there! I'm Carlos, an Electronic Engineer from Bogotá, Colombia. My focus is on **backend development** where I work primarily with **Java** and **Go**. I'm also currently on a journey learning **Python** 🐍. Always open to collaborating on cool projects—drop me a line at [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com).
+### Backend Developer
+
+Backend Developer with a foundation in Electronic Engineering, specializing in building scalable systems with **Java** and **Go**. Based in Bogotá, Colombia. I am focused on applying my skills to high-impact backend projects and am currently expanding my expertise with **GCP*.
+
+Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 
 ---
 

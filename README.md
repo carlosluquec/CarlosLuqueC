@@ -40,3 +40,6 @@ Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carloslu
 
 </div>
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

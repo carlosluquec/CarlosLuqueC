@@ -29,7 +29,7 @@ Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carloslu
 </div>
 
 ---
-
+<!--
 <h3 align="center">Stats</h3>
 
 <div align=center>
@@ -39,3 +39,4 @@ Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carloslu
 [![Carlos Luque's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlosluquec&theme=codeSTACKr&hide_border=true&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+-->

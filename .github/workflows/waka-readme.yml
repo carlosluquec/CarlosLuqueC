@@ -24,3 +24,4 @@ jobs:
           SHOW_TOTAL: true
           SHOW_PROJECTS: false
           SHOW_DAYS_OF_WEEK: false
+          SHOW_TOTAL_CODE_TIME: false

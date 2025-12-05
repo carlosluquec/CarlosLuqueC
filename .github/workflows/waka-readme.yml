@@ -1,33 +1,18 @@
-name: Waka Readme
+name: Waka Readme Simple
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # ← Test cada 10 minutos
+    - cron: '*/10 * * * *'
   workflow_dispatch:
-  
+
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          
-          # 🎯 CONFIGURACIÓN PARA EL RESULTADO ESPECÍFICO:
-          SHOW_TITLE: false           # Quita "WakaTime Stats"
-          SHOW_TIME: true             # Muestra horas
-          SHOW_TOTAL: true            # Muestra "Total de código
-          
-          # 📊 Formato de barras y lenguajes:
-          LAYOUT: "compact"           # Formato compacto
-          TIME_RANGE: "last_7_days"   # Estadísticas de la última semana
-          LANG_COUNT: 5               # Número de lenguajes a mostrar
-          
-          # 🎨 Estilo visual de las barras:
-          BLOCKS: "█░"                
-
-          
-          # ⚙️ Configuraciones adicionales:
-          LOCALE: "es"      
+          SHOW_TITLE: false
+          SHOW_TIME: true
+          LANG_COUNT: 8    

@@ -1,3 +1,5 @@
+<img src="./banner-github.png" alt="Banner">
+
 ### About Me
 
 With a foundation in Electronic Engineering, I specialize in building scalable backend systems using **Java** and **Go**. Based in Bogotá, Colombia, I am now focused on mastering cloud-native technologies and AI on the **Google Cloud Platform (GCP)**.

@@ -12,7 +12,7 @@ Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carloslu
 
 <div align="center">
 	<img height="50" width="50" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" title="Spring Boot"/>
-    <img height="55" width="55" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" title="Go"/>
+    <img height="55" width="55" src="https://cdn.simpleicons.org/python/3776AB" alt="Go" title="Go"/>
 	<img height="55" width="55" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL"/>
 	<img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL"/>
 	<img height="50" width="50" src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" title="SQLite"/>

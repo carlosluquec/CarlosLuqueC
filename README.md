@@ -30,8 +30,8 @@ Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carloslu
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 27 June 2025 - To: 27 December 2025
+```python
+From: 27 June 2025 - To: 28 December 2025
 
 Total Time: 44 hrs 10 mins
 

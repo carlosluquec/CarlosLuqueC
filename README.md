@@ -32,16 +32,19 @@ Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carloslu
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2025 - To: 03 January 2026
+From: 27 June 2025 - To: 03 January 2026
 
-Total Time: 3 hrs 13 mins
+Total Time: 45 hrs 42 mins
 
-Markdown          1 hr 23 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.40 %
-Java              47 mins         ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.46 %
-HTML              13 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.95 %
-Properties        4 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.47 %
-XML               0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.09 %
-Java Properties   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
+Java              38 hrs 30 mins  >>>>>>>>>>>>>>>>>>>>>----   84.26 %
+Markdown          3 hrs 34 mins   >>-----------------------   07.82 %
+HTML              52 mins         -------------------------   01.92 %
+Java Properties   34 mins         -------------------------   01.26 %
+Bash              18 mins         -------------------------   00.66 %
+Properties        16 mins         -------------------------   00.62 %
+Git               15 mins         -------------------------   00.55 %
+C++               11 mins         -------------------------   00.42 %
+Git Config        6 mins          -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->

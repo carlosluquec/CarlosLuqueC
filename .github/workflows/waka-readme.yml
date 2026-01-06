@@ -21,10 +21,12 @@ jobs:
           SECTION_NAME: waka 
           BLOCKS: -> 
           CODE_LANG: rust 
-          TIME_RANGE: all_time 
-          LANG_COUNT: 10 
+          TIME_RANGE: last_365_days 
+          LANG_COUNT: 6 
           SHOW_TIME: true
           SHOW_TOTAL: true 
           SHOW_MASKED_TIME: false 
           STOP_AT_OTHER: true 
           IGNORED_LANGUAGES: YAML JSON TOML
+          ### commit
+          COMMIT_MESSAGE: Updated WakaTime Stats - $(date +%Y-%m-%d) 

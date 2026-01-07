@@ -1,10 +1,8 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
@@ -12,6 +10,10 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
+      - name: Get current date
+        id: date
+        run: echo "today=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+      
       - uses: athul/waka-readme@master 
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -29,4 +31,4 @@ jobs:
           STOP_AT_OTHER: false 
           IGNORED_LANGUAGES: YAML JSON TOML
           ### commit
-          COMMIT_MESSAGE: Updated WakaTime Stats - $(date +%Y-%m-%d) 
+          COMMIT_MESSAGE: Updated WakaTime Stats - ${{ steps.date.outputs.today }}

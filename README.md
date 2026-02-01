@@ -12,7 +12,7 @@ Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carloslu
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=spring,python,go,postgresql,mongodb,redis,aws,gcp,jenkins,docker,rabbitmq,idea&perline=6)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mongodb,docker,git,githubactions,linux,bash)](https://skillicons.dev) 
 
 </div>
 

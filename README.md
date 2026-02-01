@@ -1,8 +1,8 @@
-<img src="./banner-github.png" alt="Banner">
+<img src="assets/banner-github.png" alt="Banner">
 
 ### About Me
 
-Backend Developer with a foundation in Electronic Engineering, specializing in building scalable systems with **Java/Spring**. Based in Bogotá, Colombia. I am focused on applying my skills to high-impact backend projects and I'm currently expanding my expertise with **Google Cloud Platform (GCP)**.
+Backend Engineer specializing in Java and Spring Boot, building scalable REST APIs and event-driven systems. Currently working on IoT platforms while expanding expertise in Apache Kafka, Google Cloud Platform, and system design patterns. Interested in fintech and e-commerce opportunities. Based in Bogotá, Colombia, open to remote work.
 
 Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 

@@ -22,7 +22,7 @@ jobs:
           SHOW_TITLE: true 
           SECTION_NAME: waka 
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ 
-          CODE_LANG: rust 
+          CODE_LANG: ruby 
           TIME_RANGE: all_time
           LANG_COUNT: 8 
           SHOW_TIME: true

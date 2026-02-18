@@ -1,8 +1,8 @@
-<img src="assets/banner-github.png" alt="Banner">
-
 ### About Me
 
-Backend Engineer specializing in Java and Spring Boot, building scalable REST APIs and event-driven systems. Currently working on IoT platforms while expanding expertise in Apache Kafka, Google Cloud Platform, and system design patterns. Interested in fintech and e-commerce opportunities. Based in Bogotá, Colombia, open to remote work.
+Backend developer and Electronics Engineer building RESTful APIs with Java/Spring Boot. Experience in embedded systems, microcontrollers, and IoT solutions, bridging hardware and software development. 
+
+Working on projects involving sensor data processing, hardware-software integration, and scalable backend systems.
 
 Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 
@@ -11,9 +11,13 @@ Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carloslu
 ### Skills & Technologies
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mongodb,docker,git,githubactions,linux,bash)](https://skillicons.dev) 
-
+<img height="40" width="40" src="https://cdn.simpleicons.org/springboot" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/apachemaven" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/swagger" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/postman" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/docker" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/gnubash" />
 </div>
 
 ---

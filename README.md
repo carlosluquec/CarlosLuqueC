@@ -11,13 +11,13 @@ Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carloslu
 ### Skills & Technologies
 
 <div align="center">
-<img height="40" width="40" src="https://cdn.simpleicons.org/springboot" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/apachemaven" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/swagger" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/postman" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/docker" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/gnubash" />
+<img height="40" width="40" alt="SpringBoot" src="https://cdn.simpleicons.org/springboot" />
+<img height="40" width="40" alt="Apache Maven" src="https://cdn.simpleicons.org/apachemaven" />
+<img height="40" width="40" alt="Swagger" src="https://cdn.simpleicons.org/swagger" />
+<img height="40" width="40" alt="Postman" src="https://cdn.simpleicons.org/postman" />
+<img height="40" width="40" alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql" />
+<img height="40" width="40" alt="Docker" src="https://cdn.simpleicons.org/docker" />
+<img height="40" width="40" alt="GNU Bash" src="https://cdn.simpleicons.org/gnubash" />
 </div>
 
 ---

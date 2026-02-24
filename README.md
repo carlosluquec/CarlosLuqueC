@@ -17,7 +17,7 @@ Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carloslu
 <img height="40" width="40" alt="Postman" title="Postman" src="https://cdn.simpleicons.org/postman" />
 <img height="40" width="40" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.simpleicons.org/postgresql" />
 <img height="40" width="40" alt="Docker" title="Docker" src="https://cdn.simpleicons.org/docker" />
-<img height="40" width="40" alt="GNU Bash" src="https://cdn.simpleicons.org/gnubash" />
+<img height="40" width="40" alt="GNU Bash" title="GNU Bash" src="https://cdn.simpleicons.org/gnubash" />
 </div>
 
 ---

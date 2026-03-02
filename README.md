@@ -26,7 +26,7 @@ Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carloslu
 <!--START_SECTION:waka-->
 
 ```cpp
-From: 27 June 2025 - To: 28 February 2026
+From: 27 June 2025 - To: 01 March 2026
 
 Total Time: 54 hrs 23 mins
 

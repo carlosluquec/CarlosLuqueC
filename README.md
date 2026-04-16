@@ -7,20 +7,6 @@ Working on projects involving sensor data processing, hardware-software integrat
 Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)
 
 ---
-
-### Skills & Technologies
-
-<div align="center">
-<img height="40" width="40" alt="SpringBoot" title="SpringBoot" src="https://cdn.simpleicons.org/springboot" />
-<img height="40" width="40" alt="Apache Maven" title="Apache Maven" src="https://cdn.simpleicons.org/apachemaven" />
-<img height="40" width="40" alt="Swagger" title="Swagger" src="https://cdn.simpleicons.org/swagger" />
-<img height="40" width="40" alt="Postman" title="Postman" src="https://cdn.simpleicons.org/postman" />
-<img height="40" width="40" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.simpleicons.org/postgresql" />
-<img height="40" width="40" alt="Docker" title="Docker" src="https://cdn.simpleicons.org/docker" />
-<img height="40" width="40" alt="GNU Bash" title="GNU Bash" src="https://cdn.simpleicons.org/gnubash" />
-</div>
-
----
 ### WakaTime Stats
 
 <!--START_SECTION:waka-->

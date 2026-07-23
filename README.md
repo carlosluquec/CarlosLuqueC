@@ -1,7 +1,3 @@
-### About Me
-
-Backend developer and Electronics Engineer building RESTful APIs with Java/Spring Boot. Experience in embedded systems, microcontrollers, and IoT solutions, bridging hardware and software development. 
-
 Working on projects involving sensor data processing, hardware-software integration, and scalable backend systems.
 
 Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carlosluquej@outlook.com)

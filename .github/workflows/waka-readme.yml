@@ -9,26 +9,28 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Get current date
         id: date
         run: echo "today=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
-      
-      - uses: athul/waka-readme@master 
+
+      - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### content
-          SHOW_TITLE: true 
-          SECTION_NAME: waka 
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ 
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           CODE_LANG: rust
           TIME_RANGE: all_time
-          LANG_COUNT: 8 
+          LANG_COUNT: 8
           SHOW_TIME: true
-          SHOW_TOTAL: true 
-          SHOW_MASKED_TIME: false 
-          STOP_AT_OTHER: false 
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: false
           IGNORED_LANGUAGES: YAML JSON TOML
           ### commit
           COMMIT_MESSAGE: Updated WakaTime Stats - ${{ steps.date.outputs.today }}

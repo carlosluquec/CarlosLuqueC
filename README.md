@@ -8,11 +8,11 @@ Open to connecting and collaborating: [carlosluquej@outlook.com](mailto:carloslu
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 June 2025 - To: 12 November 2026
+From: 27 June 2025 - To: 13 November 2026
 
 Total Time: 81 hrs 37 mins
 
-Java              52 hrs 49 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.70 %
+Java              52 hrs 49 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.69 %
 Python            10 hrs 18 mins        ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.43 %
 Markdown          9 hrs 7 mins          ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.00 %
 C++               2 hrs 12 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.66 %
